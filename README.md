@@ -56,7 +56,11 @@ plt.title("Sales Trend Over Time")
 plt.xlabel("Date")
 plt.ylabel("Sales")
 plt.show()
-Notebook
+
+## 🔗 Notebook
+Full project available here:  
+👉 [Open in Google Colab](https://colab.research.google.com/drive/18Cm7FyfO9r4rSbjSGrvQFVtlAMDTizeC?usp=sharing)
+
 
  
 
