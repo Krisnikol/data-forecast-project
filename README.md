@@ -56,3 +56,35 @@ plt.title("Sales Trend Over Time")
 plt.xlabel("Date")
 plt.ylabel("Sales")
 plt.show()
+Notebook
+
+The full analysis can be viewed in Google Colab:
+👉 https://colab.research.google.com/drive/18Cm7FyfO9r4rSbjSGrvQFVtlAMDTizeC?usp=sharing
+
+Key Learnings
+
+Working with time series data
+
+Data analysis and transformation with Python
+
+Understanding business trend insights
+
+Forecasting future values
+
+Combining Excel + Python
+
+Next Improvements
+
+Planned future extensions:
+
+Add ARIMA time series model
+
+Seasonal decomposition
+
+Build interactive dashboard (Power BI)
+
+Author
+
+Kristina Nikolaienko
+Data Analyst (Career Starter)
+München, Germany
