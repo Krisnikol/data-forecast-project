@@ -57,9 +57,9 @@ plt.xlabel("Date")
 plt.ylabel("Sales")
 plt.show()
 
-## 🔗 Notebook
-Full project available here:  
-👉 [Open in Google Colab](https://colab.research.google.com/drive/18Cm7FyfO9r4rSbjSGrvQFVtlAMDTizeC?usp=sharing)
+🔗 **Google Colab Notebook:**  
+👉 [Click here to view analysis](https://colab.research.google.com/drive/18Cm7FyfO9r4rSbjSGrvQFVtlAMDTizeC?usp=sharing)
+
 
 
  
